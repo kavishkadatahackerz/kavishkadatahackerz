@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<head> 
+<style>html, body{background-color: #ffffff; color: #777777;}body{padding-top: %; padding-left: 2%; padding-right: 2%; font-size: 14px; font-family: 'Roboto', 'Helvetica Neue', sans-serif;}.title{display: block; width: 100%; text-align: center; font-size: 16px;}p{line-height: 2; display: block;}b{font-size: large;}point, baseup, fixed{padding: .2rem .4rem; border-radius: .25rem;}point{color: #4f6e33; background-color: #e9f3e5; font-weight: bold}baseup{background-color: #d5dee2; color: #506874; font-weight: bold}fixed{color: #c7254e; background-color: #f9f2f4; font-weight: bold}date{font-family: monospace;}
+#container {
+	/*stitching*/
+	outline: 1px dashed #FFffff;
+	outline-offset: -5px;
+	
+	background-color: #5F5F5F;
+	height: 50px;
+	width: 100%;
+	
+	/*shadow*/
+	-webkit-box-shadow: 0px 2px 2px #000;
+	-moz-box-shadow: 0px 2px 2px #000;
+	box-shadow: 0px 2px 2px #000;
+}
+.card {
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.7);
+  background: #ffffff;
+  transition: 0.3s;
+  width: 97%;
+  height: 9%;
+  padding-top:  2%;
+  padding-bottom:  2%;
+  border-radius: 10px;
+  center-block{display:block;
+}
+
+.card:hover {
+  box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.container {
+  padding: 10px 16px;
+}
+dwh-antiban {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+</style>
+</head>
+<body>
+<center>
+<br>
+<br>
+<div class="card">
+  
+   <font face="Comic Sans MS">
+     <center>
+     <a><font color="1da1f2" size="6" style="font-weight: bold"> DH-WhatsApp Ultra</font></a></br>
+     <a><font color="1da1f2" size="4" style="font-weight: bold"> # By Kavishka Datahackerz #</font></a>
+  </div>
+</center>
+<br/>
+<br/>
+<h2>Version 9.35</h2>
+<date>12-08-2022</date>
+</hr>
+	</center>
+		<hr/>
+<baseup>Base</baseup> 2.22.10.73</br>
+<p>
+<hr/>
+         
+ <point style="font-weight: bold;">New</point> Add an option to translate text cases.<br>
+ <point style="font-weight: bold;">New</point> Add an option to forward your friends' statuses to yours.<br>
+ <point style="font-weight: bold;">New</point> Add option to design text statuses and send to your status as image.<br>
+<point style="font-weight: bold;">New</point> Custom Double Tap emoji for every chat (Chat > 3-dots).<br>
+<point style="font-weight: bold;">New</point> Added Show notification for blocked calls due to calls privacy<br>
+<point style="font-weight: bold;">New</point> Added Option to disable Double Tap to Like<br>
+<point style="font-weight: bold;">New</point> Added Admin Indicator in groups.<br>
+<point style="font-weight: bold;">New</point> Added Option to hide the icon name of the supervisor (GBWA Settings > Conversation Screen).<br>
+<point>Added</point> new options within the privacy menu.<br>
+<fixed>Fixed</fixed> The option is not hiding the archived chat at the top.<br>
+<fixed>Fixed</fixed> Top bar disappearing in stock UI.<br>
+<fixed>Fixed</fixed> Voice/Video icon color in calls screen.<br>
+<fixed>Fixed</fixed> Some translations.<br>
+<fixed>Improved</fixed> The WhatsApp junk cleaning option has been improved.<br>
+<fixed>Improved</fixed> "Who can call me" settings. Deny options now auto disabled when set to "everyone"<br>
+<fixed>Improved</fixed> Show "chats" instead of "whatsapp" in one ui header<br>
+<fixed>Misc</fixed> Improved Anti-ban<br>
+<fixed>Misc</fixed> Many other fixes and improvements that we forgot :p<br/>
+		<center><hr/>
+</font></center>
+</html>
